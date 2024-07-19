@@ -1,0 +1,6 @@
+analyzer:
+  errors:
+    unnecessary_null_comparison: ignore
+flutter:
+  assets:
+    - assets/re.jpg
